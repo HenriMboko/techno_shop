@@ -1,0 +1,32 @@
+main {
+    min-height: 80vh;
+}
+
+.rating span {
+    margin : 0.1rem
+  }
+  
+  h3 {
+    padding : 1rem 0 ;
+  }
+
+  h1{
+    font-size: 1.4rem;
+    padding: 0.2rem;
+  }
+
+ .shopping_price{
+    font-size: 1.4rem;
+    padding: 0.1rem;
+  }
+
+  i {
+    padding-right: 0.2rem;
+  }
+
+.shopping_Title {
+  font-size: 1.4rem;
+  padding: 0.2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
